@@ -1,20 +1,20 @@
-# commercial-landscaping-ground-os
-
 # Commercial Landscaping & Ground OS Route Management Back-Office Operating System & Labor Costing Infrastructure
 
-Welcome to the official repository for the Commercial Landscaping & Ground OS framework—a permanent-ownership, break-proof back-office tracking ledger engineered exclusively for elite Microsoft Excel (.xlsx) workbooks and cloud Notion dashboards. Purpose-built for commercial landscape contractors, multi-crew lawn maintenance operations, and landscape design-build firms, this standalone architecture calculates multi-crew routing schedules, chemical application logging, and complex labor burden costing natively on background automation.
+Corporate Operations Back-Office Dashboard & Standalone Management Engine
 
-🔒 **100% Corporate Vault-Secured:** This Excel Ledger is completely Macro-Free, formula-locked, and guaranteed to clear all strict corporate firewalls instantly.
+<p align="center">
+  <img src="preview.png" width="85%" style="max-width: 400px; border-radius: 8px;">
+</p>
 
-## ⚙️ Core Operational Infrastructure Engaged
-* **Multi-Crew Route & Account Management:** Relational rows tracking weekly commercial maintenance clients, routing layouts, service frequencies, and direct crew allocations.
-* **Material Takeoff & Chemical Application Logs:** Hardcoded calculation matrices tracking bulk mulch yields, topsoil square yard metrics, fertilizer applications, and EPA pesticide logging parameters.
-* **Labor Burden Costing & Job Profitability:** Live-updating cell arrays calculating actual un-burdened hourly labor rates, crew leader overhead multipliers, fuel burns per truck, and true net margin yields per property contract.
+### 🔑 SECURE ENTERPRISE PROCURE CONDUIT
+Bypass bloated monthly software licensing fees instantly. Secure your permanent, offline dark-mode corporate Excel operating workbook below:
 
-## 📦 Procurement & Secure Download Gateway
-To bypass legacy monthly SaaS subscription software and initialize your break-proof digital download container, choose your native operational platform pipeline below:
+### [👉 PROCURE THE EXCEL OPERATION ENGINE NOW ($149.00)](https://rentalengine.gumroad.com)
 
-### 🏗️ For Microsoft Excel Desktop Workspace ($149.00 One-Time Fee)
-👉 <a href="https://rentalengine.gumroad.com" target="_blank" rel="noopener noreferrer"><b>Procure the Commercial Landscaping Excel OS Here</b></a>
+*⚡ One-Time Corporate License. Permanent Local Ownership. Instant Vault Delivery.*
 
-*Developer Note: To bypass client drop-off, clicking procurement triggers a forced browser tab expansion loop. Developed by RentalEngine. Hardcoded macro-free integrity. All platform data rights reserved.*
+---
+
+Welcome to the off-grid documentation node for the specialized Back-Office Operating System framework—a break-proof enterprise ledger engineered exclusively for elite Microsoft Excel (.xlsx) local deployments. Designed explicitly to lower monthly business software overhead, this standalone layout handles commercial dispatch tracking, real-time job costing, operational cost burn, and true net margin profit calculations natively on background formula automation.
+
+🔒 **100% Corporate Vault-Secured:** This industrial spreadsheet utility is completely Macro-Free, formula-locked, and cleared of tracking scripts to instantly satisfy strict company data firewalls.
